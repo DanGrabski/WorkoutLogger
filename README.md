@@ -2,3 +2,5 @@
 Workout logger website
 
 A basic web interface to log workouts.
+
+Written in Python 3.6.
